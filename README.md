@@ -29,6 +29,12 @@ An advanced, fully autonomous AI bot designed to play Fruit Ninja with superhuma
 - `config.yaml`: Simple unified configuration variables (confidence thresholds, swipe padding, speeds, chain distances).
 - `models/`: Directory holding your trained YOLO weights (e.g., `best.pt`).
 
+## 🚀 How to Install Fruit Ninja on Windows
+
+This is currently only supported on Windows machine with specifically Intel processors. Intel and Google have partnered to bring mobile games officially to run like an emulator just like Bluestack.
+
+To get the game for Intel Based Windows Machine you just need to search for the game on Android phone, there will be an option to get invitation for PC runs. Click on it and you will be able to install offcial emulator from Google Play Store for Windows. Then download the Fruit Ninja game from there.
+
 ## 🚀 How to Run
 
 1. **Install Requirements**:
@@ -53,11 +59,7 @@ An advanced, fully autonomous AI bot designed to play Fruit Ninja with superhuma
    - The green/red floating window controls whether the bot's mouse overrides are Active (⚡) or Paused (⭕). Click to toggle.
    - Press **ESC** on your keyboard to hit the emergency kill switch and terminate the script immediately. 
 
-## 🚀 How to Install Fruit Ninja on Windows
 
-This is currently only supported on Windows machine with specifically Intel processors. Intel and Google have partnered to bring mobile games officially to run like an emulator just like Bluestack.
-
-To get the game for Intel Based Windows Machine you just need to search for the game on Android phone, there will be an option to get invitation for PC runs. Click on it and you will be able to install offcial emulator from Google Play Store for Windows. Then download the Fruit Ninja game from there..
 
 ---
 *Built for MVP testing of rapid CV pipeline automation. Not for malicious use.*
