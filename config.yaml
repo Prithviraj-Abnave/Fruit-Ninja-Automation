@@ -1,0 +1,24 @@
+# config.yaml
+model:
+  path: "models/best.pt"
+  confidence: 0.5
+  imgsz: 640
+
+capture:
+  # Set to null for full screen, or specify [x, y, w, h]
+  region: null 
+  fps_limit: 30
+
+automation:
+  enabled: true # Auto-start ON
+  slice_style: "curve" # Options: "straight", "curve"
+  mouse_speed: 0.06 # Faster for game registration
+  cooldown: 0.01 # Minimal delay between actions
+  bomb_buffer: 80
+  min_confidence: 0.4 # Lowered to 0.4 to catch everything
+  show_view: true # Re-enabled for debugging
+  max_chain_length: 8
+
+  chain_distance: 1500 # Massively increased to allow screen-wide combos
+
+

@@ -1,0 +1,18 @@
+# Ultralytics / YOLOv8 training runs and base weights
+runs/
+yolo*.pt
+
+# Training datasets and raw data
+data/
+dataset/
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
