@@ -2,7 +2,7 @@
 
 An advanced, fully autonomous AI bot designed to play Fruit Ninja with superhuman precision. The bot utilizes real-time computer vision, predictive velocity tracking, complex geometric pathfinding, and spline-interpolated mouse movements to slice fruits and safely avoid bombs.
 
-https://youtu.be/LyEyKIWccng
+<video src="https://youtu.be/LyEyKIWccng" controls width="800"></video>
 
 ## ✨ Features
 
