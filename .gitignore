@@ -1,6 +1,7 @@
 # Ultralytics / YOLOv8 training runs and base weights
 runs/
 yolo*.pt
+models/*_backup.pt
 
 # Training datasets and raw data
 data/
