@@ -2,7 +2,11 @@
 
 An advanced, real-time autonomous computer vision bot designed to play Fruit Ninja with high-speed detection, predictive trajectory modeling, and robust bomb avoidance. The bot combines a fine-tuned **YOLOv8** detector, kinematic velocity extrapolation, geometric pathfinding, and spline-interpolated mouse dynamics to execute fluid, human-like swipes while reliably avoiding explosives.
 
-https://github.com/user-attachments/assets/93c5db02-29b9-4785-8a6e-6493bf909988
+
+
+https://github.com/user-attachments/assets/b6c7373d-a6c8-4acd-a073-15c2fc6c270d
+
+
 
 ---
 
