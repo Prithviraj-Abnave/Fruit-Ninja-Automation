@@ -1,4 +1,4 @@
-path: c:/Users/admin/Desktop/SEM 6/MVP/fruit ninja automation/dataset
+path: ./dataset
 train: train/images
 val: val/images
 test: test/images
